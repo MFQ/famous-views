@@ -1,0 +1,24 @@
+{
+  "name": "famous-views",
+  "version": "1.0.0",
+  "description": "fameo.us view generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MFQ/famous-views.git"
+  },
+  "author": "MFQ <softmfq@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFQ/famous-views/issues"
+  },
+  "homepage": "https://github.com/MFQ/famous-views",
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "mustache": "^1.0.0",
+    "string": "^3.0.0"
+  }
+}
