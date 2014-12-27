@@ -38,3 +38,6 @@ function generateView(viewName, path){
 function showHelp(){
 	console.log("Generate view .......")
 }
+
+
+console.log(__dirname);
