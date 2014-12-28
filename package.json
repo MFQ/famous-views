@@ -1,8 +1,11 @@
 {
   "name": "famous-views",
   "version": "1.0.0",
-  "description": "fameo.us view generator ",
-  "main": "index.js",
+  "description": "fameo.us view generator",
+  "main": "/lib/main",
+  "bin":{
+    "famous-views":"./bin/famous-views"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +23,8 @@
     "minimist": "^1.1.0",
     "mustache": "^1.0.0",
     "string": "^3.0.0"
+  },
+  "engines":{
+    "node": "*"
   }
 }
