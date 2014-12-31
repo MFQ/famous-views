@@ -1,5 +1,7 @@
-Famous-views
+Famous-views 
 ============
+
+[![Build Status](https://travis-ci.org/MFQ/famous-views.svg?branch=master)](https://travis-ci.org/MFQ/famous-views)
 
 Generator boilerplate views of famo.us elegantly and quickly. 
 
