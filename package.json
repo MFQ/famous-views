@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "fameo.us view generator",
   "main": "/lib/main",
-  "bin":{
-    "famous-views":"./bin/famous-views"
+  "bin": {
+    "famous-views": "./bin/famous-views"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,16 @@
     "mustache": "^1.0.0",
     "string": "^3.0.0"
   },
-  "engines":{
+  "engines": {
     "node": "*"
+  },
+  "keywords": [
+    "famous",
+    "generator"
+  ],
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "shelljs": "^0.3.0"
   }
 }
