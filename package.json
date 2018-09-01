@@ -21,7 +21,7 @@
   "homepage": "https://github.com/MFQ/famous-views",
   "dependencies": {
     "minimist": "^1.1.0",
-    "mustache": "^1.0.0",
+    "mustache": "^2.2.1",
     "string": "^3.0.0"
   },
   "engines": {
