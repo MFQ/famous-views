@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/MFQ/famous-views",
   "dependencies": {
-    "minimist": "^1.1.0",
-    "mustache": "^2.2.1",
-    "string": "^3.0.0"
+    "minimist": "^1.2.0",
+    "mustache": "^2.3.2",
+    "string": "^3.3.3"
   },
   "engines": {
     "node": "*"
@@ -32,8 +32,8 @@
     "generator"
   ],
   "devDependencies": {
-    "chai": "^1.10.0",
-    "mocha": "^2.1.0",
-    "shelljs": "^0.3.0"
+    "chai": "^4.1.2",
+    "mocha": "^2.5.3",
+    "shelljs": "^0.8.2"
   }
 }
